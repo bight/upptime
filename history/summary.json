@@ -22,17 +22,17 @@
     "url": "https://cafeiso.com",
     "icon": "https://favicons.githubusercontent.com/cafeiso.com",
     "slug": "cafe-iso",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 273,
-    "timeWeek": 417,
-    "timeMonth": 406,
-    "timeYear": 366,
+    "time": 367,
+    "timeDay": 362,
+    "timeWeek": 421,
+    "timeMonth": 407,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   }
 ]
